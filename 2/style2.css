@@ -1,0 +1,324 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-align: center;
+  }
+  .all{
+      width: 60%;
+      height: 850px;
+      border: 1px solid #000;
+      margin: 0 auto;
+  
+  }
+  .head{
+      width: 100%;
+      height: 200px;
+      margin: 0 auto;
+      background-color: antiquewhite;
+      padding: 35px 20px;
+  }
+  .head1{
+      width: 80%;
+      height: 130px;
+      margin: 0 auto;
+      background-color: burlywood;
+      padding: 25px 60px 25px 260px;
+  }
+  .head2{
+      width: 60%;
+      height: 80px;
+      margin: 0 auto;
+      padding: 35px 125px;
+      background-color: rgb(237, 239, 253);
+  }
+  .b1{
+      width: 20%;
+      height: 150px;
+      background-color: teal;
+      margin: 200px 0;
+      float: left;
+      padding: 0 65px;
+      
+  }
+  .b2{
+      width: 20%;
+      height: 150px;
+      background-color: deepskyblue;
+      margin: 200px 0;
+      float: left;
+      padding: 0 65px;
+  }
+  .b3{
+      width: 20%;
+      height: 150px;
+      background-color: peachpuff;
+      margin: 200px 0;
+      float: left;
+      padding: 0 65px;
+  }
+  .b4{
+      width: 20%;
+      height: 150px;
+      background-color: salmon;
+      margin: 200px 0;
+      float: left;
+      padding: 0 65px;
+  }
+  .b5{
+      width: 20%;
+      height: 150px;
+      background-color: indigo;
+      margin: 200px 0;
+      float: left;
+      padding: 0 65px;
+  }
+  .k1{
+      width: 33%;
+      height: 400px;
+      background-color: olivedrab;
+      margin: 350px 0;
+      float: left;
+  }
+  .k2{
+      width: 33%;
+      height: 400px;
+      background-color: darkcyan;
+      margin: 350px 0;
+      float: left;
+  }
+  .k3{
+      width: 34%;
+      height: 400px;
+      background-color: rgb(19, 4, 233);
+      margin: 350px 0;
+      float: left;
+  }
+  .text1{
+      width: 387px;
+      height: 150px;
+      background-color: olivedrab;
+      margin: 350px 0;
+      /* border: 1px solid rgb(204, 14, 14); */
+      padding: 30px 100px;
+  }
+  .text{
+      display: block;
+      width: 180px;
+      height: 90px;
+      background-color: rgb(90, 84, 84);
+      /* margin: 360px 0; */
+      padding: 70px 70px;
+  
+  }
+  .text2{
+      width: 387px;
+      height: 250px;
+      background-color: olivedrab;
+      margin: 500px 0;
+      /* border: 1px solid rgb(204, 14, 14); */
+  }
+  .first{
+      width: 387px;
+      height: 80px;
+      /* border: 1px solid rgb(204, 14, 14); */
+      padding: 20px 90px;
+  }
+  .three{
+      width: 200px;
+      height: 60px;
+      background-color: rgb(119, 9, 9);
+  
+  }
+  .second{
+      width: 387px;
+      height: 170px;
+      /* border: 1px solid rgb(204, 14, 14); */
+      padding: 0px 90px;
+  }
+  .four{
+      width: 100px;
+      height: 165px;
+      background-color: salmon;
+      float: left;
+  }
+  .five{
+      width: 100px;
+      height: 165px;
+      background-color: rgb(196, 194, 80);
+      float: left;
+  }
+  .a{
+      height: 50px;
+      background-color: teal;
+  }
+  .bcd{
+      height: 70px;
+      /* border: 1px solid rgb(204, 14, 14); */
+  }
+  .b{
+      height: 70px;
+      width: 33%;
+      background-color: rgb(64, 224, 125);
+      float: left;
+  }
+  .c1{
+      height: 70px;
+      width: 33%;
+      background-color: skyblue;
+      float: left;
+  }
+  .d{
+      height: 70px;
+      width: 34%;
+      background-color: rgb(3, 221, 236);
+      float: left;
+  }
+  .q1{
+      height: 280px;
+      width: 33%;
+      /* border: 1px solid rgb(204, 14, 14); */
+      float: left;
+  }
+  .b11{
+      height: 280px;
+      width: 50%;
+      background-color: rgb(143, 15, 15);
+      float: left;
+  }
+  .none{
+      height: 140px;
+      width: 50%;
+      background-color: rgb(64, 224, 125);
+      float: left;
+  }
+  .b22{
+      height: 140px;
+      width: 50%;
+      background-color: lime;
+      float: left;
+  }
+  .q2{
+      height: 280px;
+      width: 33%;
+      /* border: 1px solid rgb(204, 14, 14); */
+      float: left;
+  }
+  .c22{
+      height: 70px;
+      background-color: rgb(48, 2, 141);
+  }
+  .c33{
+      height: 70px;
+      background-color: rgb(107, 29, 131);
+  }
+  .c44{
+      height: 140px;
+      width: 50%;
+      background-color: moccasin;
+      float: left;
+  }
+  .c55{
+      height: 140px;
+      width: 50%;
+      background-color: tomato;
+      float: left;
+  }
+  .q3{
+      height: 280px;
+      width: 34%;
+      /* border: 1px solid rgb(204, 14, 14); */
+      float: left;
+  }
+  .d1{
+      height: 70px;
+      background-color: rgb(53, 137, 143);
+  }
+  .d2{
+      height: 210px;
+      background-color: blanchedalmond;
+      padding: 90px 40px;
+  }
+  img{
+      height: 50px;
+      width: 40px;
+  }
+  
+  .w1{
+      height: 50px;
+      background-color: teal;
+  }
+  .e1{
+  height: 50px;
+  width: 33%;
+  background-color: mediumseagreen;
+  float: left;
+  }
+  .e2{
+  height: 50px;
+  width: 33%;
+  background-color: rgb(207, 89, 182);
+  float: left;
+  }
+  .e3{
+  height: 50px;
+  width: 34%;
+  background-color: rgb(230, 126, 58);
+  float: left;
+  }
+  .w2{
+      height: 50px;
+      background-color: rgb(248, 220, 189);
+      padding: 10px 120px;
+  }
+  .red{
+      height: 30px;
+      width: 160px;
+      background-color: rgb(204, 14, 14);
+      padding: 15px 70px;
+  }
+  .black{
+      height: 5px;
+      width: 20px;
+      background-color: black;
+  }
+  .w3{
+      height: 50px;
+      background-color: rgb(150, 160, 160);
+  }
+  .w4{
+      height: 250px;
+      width: 35%;
+      background-color: darkolivegreen;
+      float: left;
+  }
+  .w5{
+      height: 250px;
+      background-color: rgb(211, 245, 152);
+  }
+  .t1{
+      height: 80px;
+      background-color: rgb(136, 127, 127);
+  }
+  .w6{
+      height: 80px;
+      background-color: gold;
+  }
+  .x1{
+      height: 80px;
+      width: 65%;
+      background-color: darkviolet;
+  }
+  .x2{
+      height: 80px;
+      width: 35%;
+      background-color: rgb(231, 218, 228);
+  }
+  .w7{
+      height: 90px;
+      background-color: rgb(241, 114, 213);
+  }
+  .pid{
+      height: 250px;
+      background-color: indigo;
+  }
